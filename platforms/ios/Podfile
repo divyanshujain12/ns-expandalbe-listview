@@ -1,1 +1,1 @@
-pod 'NSExpandableTableView', :git => 'git@github.com:mobilemindtec/nativescript-expandable-list-view-ios-source.git'
+pod 'NSExpandableTableView', :git => 'https://github.com/divyanshujain12/ns-expandalbe-listview-ios.git'
